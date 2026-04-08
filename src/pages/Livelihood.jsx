@@ -15,8 +15,8 @@ import { motion } from "framer-motion";
 import { useInView } from "react-intersection-observer";
 import { FaCarSide, FaHandshake, FaSeedling } from "react-icons/fa";
 import { FiAward, FiFileText, FiRefreshCcw } from "react-icons/fi";
-import l1 from "../assets/L 1.png";
-import l2 from "../assets/L 2.png";
+import l1 from "../assets/L1.png";
+import l2 from "../assets/L2.png";
 
 const stats = [
     { value: 7, label: "Startups supported" },
